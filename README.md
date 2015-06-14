@@ -7,7 +7,7 @@ Documentation for consultants working on Engagement Engineering projects.
 Docs
 ----
 
-Documentation can be found at http://ee-consultant-guidelines.rtfd.org/.
+Documentation can be found at http://engagement-engineering-consutlant-guidelines.rtfd.org/
 
 
 Building Documentation Locally
