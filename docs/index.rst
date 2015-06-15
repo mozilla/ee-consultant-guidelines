@@ -15,10 +15,11 @@ Contents:
    :maxdepth: 2
 
    getting_started
-   version_control
    browser_support
-   hosting
    code_guidelines
+   hosting
+   version_control
+   qa
 
 Indices and tables
 ==================
