@@ -26,13 +26,6 @@ Fully Outsourced
 2. Site not hosted on mozilla resources.
 3. No expectations of EE resources providing maintenance or feature devleopment.
 
-**Applicable Guidelines**
-
-* :doc:`browser_support`
-* :doc:`hosting`
-* :doc:`qa`
-* :doc:`version_control`
-
 ------------
 
 -------------------------------
@@ -43,14 +36,6 @@ Fully Outsourced With Handover
 2. Site may be hosted on mozilla resources.
 3. Expectations of EE resources providing maintenance or feature devleopment post launch.
 
-**Applicable Guidelines**
-
-* :doc:`browser_support`
-* :doc:`code_guidelines`
-* :doc:`hosting`
-* :doc:`version_control`
-* :doc:`qa`
-
 ------------
 
 -----------------------
@@ -60,11 +45,3 @@ Partially Outsourced
 1. Non production ready code is written by consultant.
 2. Site may be hosted on mozilla resources.
 3. EE resources finish development and are responsible for feature development post launch.
-
-**Applicable Guidelines**
-
-* :doc:`browser_support`
-* :doc:`code_guidelines`
-* :doc:`hosting`
-* :doc:`version_control`
-* :doc:`qa`

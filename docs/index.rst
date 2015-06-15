@@ -5,14 +5,14 @@
 Welcome to Engagement Engineering's Consultant Guidelines
 =========================================================
 
-These guidelines are meant to ensure consultant's working for Engagement Engineering have
+These guidelines are meant to ensure consultants working for Engagement Engineering have
 clear instructions to follow when delivering code. Whenever possible these guidelines should
 be integrated into contracts and statements of work.
 
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    getting_started
    browser_support
