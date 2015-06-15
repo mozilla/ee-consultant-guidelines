@@ -30,7 +30,7 @@ should be followed.
 
 
 2. Fully Outsourced With Handover
-----------------------------------
+---------------------------------
 
 1. All code written by consultant.
 2. Site may be hosted on mozilla resources.
