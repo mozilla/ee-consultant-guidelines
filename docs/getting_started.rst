@@ -9,12 +9,18 @@ Getting Started
 
 Prior to entering into a contract with a consulting company, please read through and familiarize yourself with these guidelines.
 
-There are 3 relationships EE can have with consultants. Depending on the relationship specific guidelines
-should be followed.
-
+There are 3 relationships EE can have with consultants.
 
 1. Fully Outsourced
---------------------
+2. Fully Outsourced With Handover
+3. Partially Outsourced
+
+Depending on the relationship specific guidelines should be followed.
+
+
+-----------------
+Fully Outsourced
+-----------------
 
 1. All code written by consultant.
 2. Site not hosted on mozilla resources.
@@ -23,14 +29,15 @@ should be followed.
 **Applicable Guidelines**
 
 * :doc:`browser_support`
+* :doc:`hosting`
 * :doc:`qa`
 * :doc:`version_control`
 
 ------------
 
-
-2. Fully Outsourced With Handover
----------------------------------
+-------------------------------
+Fully Outsourced With Handover
+-------------------------------
 
 1. All code written by consultant.
 2. Site may be hosted on mozilla resources.
@@ -46,8 +53,8 @@ should be followed.
 
 ------------
 
-
-3. Partially Outsourced
+-----------------------
+Partially Outsourced
 -----------------------
 
 1. Non production ready code is written by consultant.
