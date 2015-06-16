@@ -15,10 +15,10 @@ Contents:
    :maxdepth: 1
 
    getting_started
-   browser_support
+   communication
+   version_control
    code_guidelines
    hosting
-   version_control
    qa
 
 

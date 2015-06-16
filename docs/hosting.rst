@@ -12,6 +12,7 @@ There are 2 scenarios for hosting a project developed by a third party.
 1. Consultant Hosted
 2. Mozilla Hosted
 
+----
 
 -----------------
 Consultant Hosted
@@ -23,8 +24,10 @@ performance or uptime.
 
 The following responsibilites should be outlined in a SOW:
 
-Consultant Responsible
-----------------------
+
+
+**Consultant Responsible**
+
 * Billing, either direct or pass through.
     * Length of hosting duration.
     * Cost breakdown of hosting / traffic / including estimates for all costs and possible overages.
@@ -33,13 +36,13 @@ Consultant Responsible
     * Uptime, taking necessary steps to ensure project has resilency.
 
 
+**Mozilla Responsible**
 
-Mozilla Responsible
--------------------
 * Domain Configuration:
     * Registration of any domains.
     * DNS & SSL of any domains.
 
+----
 
 ---------------
 Mozilla Hosted
@@ -50,15 +53,15 @@ performant hosting.
 
 The following responsibilites should be outlined in a SOW:
 
-Consultant Responsible
-----------------------
+**Consultant Responsible**
+
 * Delivering Code:
     * Deploying and configuring code that works properly on Mozilla's Infra.
     * Ensuring project works as intended on Mozilla Infra.
 
 
-Mozilla Responsible
--------------------
+**Mozilla Responsible**
+
 * Providing Infrastructure & Documenting Environments & Deployment:
     * Registration of any domains.
     * DNS & SSL of any domains.
