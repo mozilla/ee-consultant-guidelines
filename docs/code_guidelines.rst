@@ -7,4 +7,7 @@
 Code Guidelines
 ===============
 
-test
+
+
+Browser Support
+---------------
