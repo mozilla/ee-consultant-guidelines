@@ -2,6 +2,7 @@
 .. License, v. 2.0. If a copy of the MPL was not distributed with this
 .. file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+.. _communications:
 
 ==============
 Communication
@@ -19,4 +20,5 @@ Establish and agree upon communication channels in your kickoff meeting.
     * IRC, Email, Slack or other appropriate communication methods.
     * Establish how progress on deliverables will be tracked and communicated.
     * Reporting & tracking bugs.
+    * Establish documentation, what and where?
 
