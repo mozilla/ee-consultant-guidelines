@@ -29,7 +29,6 @@ In this scenario you should do the following.
 * Request a WebQA Resource:
     * They should review the contract and SOW and determine their level of involvement.
     * They should develop a QA plan that is reviewed and agreed upon by Mozilla and the consultant.
-    * Based on the project they can determine their level of involvement.
 
 ----
 
