@@ -7,7 +7,7 @@
 Hosting
 ===============
 
-There are 2 scenarios for hosting a project developed by a third party.
+There are 2 common scenarios for hosting a project developed by consultants.
 
 1. Consultant Hosted
 2. Mozilla Hosted
@@ -29,18 +29,18 @@ The following responsibilites should be outlined in a SOW:
 **Consultant Responsible**
 
 * Billing, either direct or pass through.
-    * Length of hosting duration.
-    * Cost breakdown of hosting / traffic / including estimates for all costs and possible overages.
+    * Include duration of hosting.
+    * Provide estimates of all costs (hosting/bandwidth/other) including any possible overages.
 * Ensuring hosting is performant.
-    * Traffic estimates, ensure project can handle expected traffic.
-    * Uptime, taking necessary steps to ensure project has resilency.
+    * Ensure project can handle expected traffic.
+    * Ensure uptime for duration of project.
 
 
 **Mozilla Responsible**
 
 * Domain Configuration:
     * Registration of any domains.
-    * DNS & SSL of any domains.
+    * DNS & SSL for any domains.
 
 ----
 
@@ -64,7 +64,7 @@ The following responsibilites should be outlined in a SOW:
 
 * Providing Infrastructure & Documenting Environments & Deployment:
     * Registration of any domains.
-    * DNS & SSL of any domains.
+    * DNS & SSL for any domains.
     * Providing (if needed) dev, stage and production hosting.
     * Documentation on how code will be deployed to each environment and by whom.
     * Any specific implementation details specific to Mozilla infra.

@@ -16,7 +16,8 @@ There are 3 relationships EE can have with consultants.
 2. Fully Outsourced With Handover
 3. Partially Outsourced
 
-Depending on the relationship some of these guidelines may not be applicable.
+It is important to define the type of relationship before creating a contract and SOW.
+The type of relationship informs what the constultants and Mozilla are responsible for.
 
 
 ----
