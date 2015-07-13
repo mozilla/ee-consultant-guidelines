@@ -15,10 +15,9 @@ Contents:
    :maxdepth: 1
 
    getting_started
+   rfp
    communication
    version_control
    code_guidelines
    hosting
    qa
-
-
