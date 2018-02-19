@@ -22,7 +22,7 @@ Consultant hosted means the 3rd party is taking responsibility for hosting the w
 project is not hosted on Mozilla hardware and Mozilla is not responsible for either
 performance or uptime.
 
-The following responsibilites should be outlined in a SOW:
+The following responsibilities should be outlined in a SOW:
 
 
 
@@ -48,10 +48,10 @@ The following responsibilites should be outlined in a SOW:
 Mozilla Hosted
 ---------------
 
-Mozilla hosted means the project is hosted on Mozilla hardware. Mozilla is responsible for providing
+Mozilla hosted means the project is hosted on Mozilla infrastructure. Mozilla is responsible for providing
 performant hosting.
 
-The following responsibilites should be outlined in a SOW:
+The following responsibilities should be outlined in a SOW:
 
 **Consultant Responsible**
 

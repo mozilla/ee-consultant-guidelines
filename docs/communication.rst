@@ -17,7 +17,7 @@ Establish and agree upon communication channels in your kickoff meeting.
       consultants for the duration of the project.
 * Define how the team will communicate including:
     * Meeting cadence.
-    * IRC, Email, Slack or other appropriate communication methods.
+    * Vidyo, Slack, IRC, Email, or other appropriate communication methods.
     * Establish how progress on deliverables will be tracked and communicated.
     * Reporting & tracking bugs.
     * Establish documentation, what and where?

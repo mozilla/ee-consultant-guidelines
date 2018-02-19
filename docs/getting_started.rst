@@ -10,13 +10,13 @@ Getting Started
 Prior to entering into a contract with a consulting company, please read through and familiarize
 yourself with this documentation.
 
-There are 3 relationships EE can have with consultants.
+There are 3 relationships MozMeao can have with consultants.
 
 1. Fully Outsourced
 2. Fully Outsourced With Handover
 3. Partially Outsourced
 
-It is important to define the type of relationship before creating a contract and SOW.
+It is important to define the type of relationship before creating a contract and SOW (Statement of Work).
 The type of relationship informs what the constultants and Mozilla are responsible for.
 
 
@@ -26,7 +26,7 @@ The type of relationship informs what the constultants and Mozilla are responsib
 
 1. All code written by consultant.
 2. Site not hosted on Mozilla resources.
-3. No expectations of EE resources providing maintenance or feature devleopment.
+3. No expectations of MozMeao resources providing maintenance or feature devleopment.
 
 ----
 
@@ -34,7 +34,7 @@ The type of relationship informs what the constultants and Mozilla are responsib
 
 1. All code written by consultant.
 2. Site may be hosted on Mozilla resources.
-3. Expectations of EE resources providing maintenance or feature devleopment post launch.
+3. Expectations of MozMeao resources providing maintenance or feature devleopment post launch.
 
 ----
 
@@ -43,4 +43,4 @@ The type of relationship informs what the constultants and Mozilla are responsib
 
 1. Non production ready code is written by consultant.
 2. Site may be hosted on Mozilla resources.
-3. EE resources finish development and are responsible for feature development post launch.
+3. MozMeao resources finish development and are responsible for feature development post launch.

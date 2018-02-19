@@ -1,7 +1,7 @@
 Engagement Engineering Consultant Guidelines
 ============================================
 
-Documentation for consultants working on Engagement Engineering projects.
+Documentation for consultants working on Mozilla Marketing Engineering & Operations projects.
 
 
 Docs
@@ -20,7 +20,7 @@ strongly recommended that you create and activate a
 If you'd like to build the documentation locally:
 
 ```sh
-   pip install sphinx sphinx-autobuild
+   pip install sphinx sphinx-autobuild sphinx_rtd_theme
    cd docs
    make html
 ```

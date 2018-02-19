@@ -3,13 +3,13 @@
 .. file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-==
-QA
-==
+=================
+Quality Assurance
+=================
 
 Who is doing QA and how should be determined prior to a signing a contract or SOW.
 
-Generally there are 2 approaches for QA used with consutlants, the first being the most common:
+Generally there are 2 approaches for QA used with consultants, the first being the most common:
 
 1. Combined QA, Mozilla + Consultant
 2. Consultant QA Only
@@ -22,11 +22,11 @@ Combined QA
 
 Consultants are expected to deliver working code, however in many cases they do not have the same
 standards for QA or expertise to fully deliver a project. In most circumstances we will want to have
-Mozilla's QA providing additional reviews and testing.
+MozMeao provide additional QA reviews and testing.
 
 In this scenario you should do the following.
 
-* Request a WebQA Resource:
+* Request a MozMeao QA Resource:
     * They should review the contract and SOW and determine their level of involvement.
     * They should develop a QA plan that is reviewed and agreed upon by Mozilla and the consultant.
 
@@ -42,11 +42,11 @@ concern. These areas will be specific to the project but some areas to think abo
 
 * Browser support.
 * Mobile support.
-* Accessability support.
-* Verifying proper analytics behavor.
+* Accessibility support.
+* Verifying proper analytics behavior.
 * Testing integration with any 3rd party services.
 * Load testing.
 
 
-Even in circumstances where the consutling firm is handling the entirety of the QA, a method for
+Even in circumstances where the consulting firm is handling the entirety of the QA, a method for
 Mozilla submitting bugs should still be established at Kickoff.
