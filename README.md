@@ -1,4 +1,4 @@
-Engagement Engineering Consultant Guidelines
+MozMeao Consultant Guidelines
 ============================================
 
 Documentation for consultants working on Mozilla Marketing Engineering & Operations projects.
